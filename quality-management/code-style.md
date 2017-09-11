@@ -10,6 +10,17 @@ We follow these [guidelines](http://solidity.readthedocs.io/en/develop/style-gui
 
 We follow the [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
+# Code
+
+- Documentation and comments.
+  - Use Doxygen comments.
+  - Explain non-obvious portions of code.
+  - Explain security choices.
+  - Explain computational/gas complexity related choices.
+- Good practice
+  - Do not use magic numbers/values (define a constant like `MY_CONSTANT = 42`).
+  - If you write the same code more than twice, you need to factorize it.
+
 # Repository
 
 ## Name

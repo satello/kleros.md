@@ -24,8 +24,11 @@ Describe the global guidelines of the Kleros project.
 ## Table of contents
 
 ### [Quality Management](./quality-management/)
+
 - [Code Style](./quality-management/code-style.md)
 - quality processes, ...
 
 ### [Software Architecture](./software-architecture/)
+
+- [Global architecture](./software-architecture/architecture.md)
 - entity relationship, ...

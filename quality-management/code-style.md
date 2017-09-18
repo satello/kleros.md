@@ -4,7 +4,9 @@ We follow the [agis/git-style-guide](https://github.com/agis/git-style-guide).
 
 # Solidity
 
-We follow these [guidelines](http://solidity.readthedocs.io/en/develop/style-guide.html).
+We follow the [solidity documentation style guide](http://solidity.readthedocs.io/en/develop/style-guide.html).
+
+Additionaly, we have those [smart contract guidelines](https://github.com/kleros/kleros/wiki/Guidelines-contracts).
 
 # Javascript
 

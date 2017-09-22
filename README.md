@@ -32,3 +32,12 @@ Describe the global guidelines of the Kleros project.
 
 - [Global architecture](./software-architecture/architecture.md)
 - entity relationship, ...
+
+## Support
+
+Add an issue on github to report a bug with code comment (advanced user).
+
+Or go [gitter](https://kleros.slack.com/messages/C65N18PT3/).
+
+Or go [slack#dev](https://kleros.slack.com/messages/C65N18PT3/) to ask general
+technical questions about the project.

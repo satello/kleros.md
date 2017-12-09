@@ -39,8 +39,8 @@ If you're adding functionality, please also add tests and make sure they pass. W
 
 We use [semantic versioning](http://semver.org/), but before we reach v1.0.0 all breaking changes as well as new features will be minor version bumps.
 
-We have two main branches: `master` and `development`.
+We have two main branches: `master` and `develop`.
 
 `master` represents the most recent released (published on npm) version.
 
-`development` represents the development state and is a default branch to which you will submit a PR. We use this structure so that we can push hotfixes to the currently released version without needing to publish all the changes made towards the next release. If a hotfix is implemented on `master`, it is back-ported to `development`.
+`development` represents the development state and is a default branch to which you will submit a PR. We use this structure so that we can push hotfixes to the currently released version without needing to publish all the changes made towards the next release. If a hotfix is implemented on `master`, it is back-ported to `develop`.

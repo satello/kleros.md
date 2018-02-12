@@ -33,6 +33,14 @@ Describe the global guidelines of the Kleros project.
 - [Global architecture](./software-architecture/architecture.md)
 - entity relationship, ...
 
+### [Project Flowcharts](./project-flowcharts/)
+
+- [Freelancer Flowchart](./project-flowcharts/flowchart_freelancer.html)
+
+### [Contract Usage](./contract-usage/)
+
+- [Deploying KlerosPOC](./contract-usage/DeployKlerosPOC.md)
+
 ## Support
 
 Add an issue on github to report a bug with code comment (advanced user).
